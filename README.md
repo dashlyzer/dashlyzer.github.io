@@ -1,3 +1,5 @@
+![Dashboard Preview](Dashboard.png)
+
 # Shopify Sales Dashboard – Power BI
 
 🚀 This Power BI dashboard provides insights into an eCommerce store's performance using Shopify sales data.
